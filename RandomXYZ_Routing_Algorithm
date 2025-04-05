@@ -1,0 +1,5 @@
+SIMULATION RESULT OF Random XYZ Routing Algorithm in 3-D NOC
+
+Average Input Bandwidth 0 Mb/sec Average Output Bandwidth 0 Mb/sec Lost Packets: 792 Average flit latency: 13.12 ns. Average packet latency: 45.54 ns. Average network latency: 79200048.00 ns. Random seed 715084074 Execution time: 0h 0 min and 9 seconds
+
+Average Input Bandwidth 0 Mb/sec Average Output Bandwidth 0 Mb/sec Lost Packets: 793 Average flit latency: 12.91 ns. Average packet latency: 44.67 ns. Average network latency: 79300048.00 ns. Random seed 1754398387 Execution time: 0h 0 min and 10 seconds
