@@ -1,0 +1,7 @@
+SIMULATION RESULT OF Table Routing Algorithm in 3-D NOC
+
+Average Input Bandwidth 0 Mb/sec Average Output Bandwidth 0 Mb/sec Lost Packets: 593 Average flit latency: 12.87 ns. Average packet latency: 44.77 ns. Average network latency: 59300044.00 ns. Random seed 1199846169 Execution time: 0h 0 min and 9 seconds
+
+Average Input Bandwidth 0 Mb/sec Average Output Bandwidth 0 Mb/sec Lost Packets: 988 Average flit latency: 13.73 ns. Average packet latency: 46.09 ns. Average network latency: 98800048.00 ns. Random seed 2551311137 Execution time: 0h 0 min and 11 seconds
+
+Average Input Bandwidth 0 Mb/sec Average Output Bandwidth 0 Mb/sec done. Lost Packets: 793 Average flit latency: 12.97 ns. Average packet latency: 44.92 ns. Average network latency: 79300048.00 ns. Random seed 4250456467 Execution time: 0h 0 min and 9 seconds
