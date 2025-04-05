@@ -1,1 +1,15 @@
+SUMMARIZE THE SIMULATION RESULT BASED ON PACKET INJECTION RATE:
 
+The performance of the network was analyzed based on varying Packet Injection Rates (PIR) ranging from 0.01 to 0.05. 
+
+From the data:
+
+Latency remains low and increases gradually from PIR = 0.01 to 0.025, indicating a stable network performance.
+
+A sharp increase in latency is observed beyond PIR = 0.03, reaching a peak of 341.33 at PIR = 0.045. This indicates congestion in the network.
+
+Throughput increases steadily and reaches a near-saturation point at PIR = 0.05 with a maximum value of 0.808.
+
+A point of interest is observed around PIR = 0.04 to 0.045, where throughput slightly plateaus but latency sharply increases, confirming the onset of saturation and potential network instability.
+
+Overall, the results suggest that the network performs efficiently up to a PIR of around 0.03, beyond which the latency significantly increases, signaling a congestion point
