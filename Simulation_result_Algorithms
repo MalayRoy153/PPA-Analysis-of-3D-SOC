@@ -10,6 +10,7 @@ A sharp increase in latency is observed beyond PIR = 0.03, reaching a peak of 34
 
 Throughput increases steadily and reaches a near-saturation point at PIR = 0.05 with a maximum value of 0.808.
 
-A point of interest is observed around PIR = 0.04 to 0.045, where throughput slightly plateaus but latency sharply increases, confirming the onset of saturation and potential network instability.
+A point of interest is observed around PIR = 0.04 to 0.045, where throughput slightly plateaus but latency sharply increases, 
+confirming the onset of saturation and potential network instability.
 
 Overall, the results suggest that the network performs efficiently up to a PIR of around 0.03, beyond which the latency significantly increases, signaling a congestion point
